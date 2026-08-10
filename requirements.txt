@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 pandas
 numpy
@@ -6,12 +5,4 @@ scikit-learn
 joblib
 openpyxl
 matplotlib
-=======
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
-openpyxl
-matplotlib
->>>>>>> 5271a1b673ef98adb162a130014280918d84c614
+plotly
